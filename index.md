@@ -32,5 +32,4 @@ menu:
     identifier: _index
     url: "/"
     weight: 1
-published: false
 ---
